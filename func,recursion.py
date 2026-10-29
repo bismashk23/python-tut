@@ -63,9 +63,11 @@ print(fact(m)) '''
 #-----------------------------------------------------------------------------------
 
 #qs 4. convert usd to inr
-def convert(u):   # 1 usd=95.21 inr
+''' def convert(u):   # 1 usd=95.21 inr
     result=u*95.21
     print(u,"USD is=", result,'INR')
 
 usd=int(input('enter usd value to convert to inr:'))
-convert(usd)
+convert(usd) '''
+
+#-----------------------------------------------------------------------------------
